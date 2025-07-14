@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gwens/static/css/main.f6308f65.css",
-    "main.js": "/gwens/static/js/main.9b4b798a.js",
+    "main.js": "/gwens/static/js/main.ae4d8904.js",
     "static/js/453.1589b360.chunk.js": "/gwens/static/js/453.1589b360.chunk.js",
     "static/media/tshirt.jpg": "/gwens/static/media/tshirt.88765c1d87e0326e1800.jpg",
     "index.html": "/gwens/index.html",
     "main.f6308f65.css.map": "/gwens/static/css/main.f6308f65.css.map",
-    "main.9b4b798a.js.map": "/gwens/static/js/main.9b4b798a.js.map",
+    "main.ae4d8904.js.map": "/gwens/static/js/main.ae4d8904.js.map",
     "453.1589b360.chunk.js.map": "/gwens/static/js/453.1589b360.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6308f65.css",
-    "static/js/main.9b4b798a.js"
+    "static/js/main.ae4d8904.js"
   ]
 }
