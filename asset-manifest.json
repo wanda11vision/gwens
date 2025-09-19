@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gwens/static/css/main.160f96f0.css",
-    "main.js": "/gwens/static/js/main.116a7177.js",
+    "main.css": "/gwens/static/css/main.993dd67d.css",
+    "main.js": "/gwens/static/js/main.3f705df1.js",
     "static/js/453.1589b360.chunk.js": "/gwens/static/js/453.1589b360.chunk.js",
     "static/media/offer photo.png": "/gwens/static/media/offer photo.f217d985182e6ab604b4.png",
     "static/media/tshirt.jpg": "/gwens/static/media/tshirt.88765c1d87e0326e1800.jpg",
     "index.html": "/gwens/index.html",
-    "main.160f96f0.css.map": "/gwens/static/css/main.160f96f0.css.map",
-    "main.116a7177.js.map": "/gwens/static/js/main.116a7177.js.map",
+    "main.993dd67d.css.map": "/gwens/static/css/main.993dd67d.css.map",
+    "main.3f705df1.js.map": "/gwens/static/js/main.3f705df1.js.map",
     "453.1589b360.chunk.js.map": "/gwens/static/js/453.1589b360.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.160f96f0.css",
-    "static/js/main.116a7177.js"
+    "static/css/main.993dd67d.css",
+    "static/js/main.3f705df1.js"
   ]
 }
